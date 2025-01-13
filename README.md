@@ -1,4 +1,4 @@
-# Buisness_analysis_python
+# Business_analysis_python
 This code will provide a framework for planning, development, and analysis related to metrics reporting, risk detection, sales strategy, and user churn analysis.
 
 ![alt text](https://github.com/gaptab/Buisness_analysis_python/blob/main/statewise%20visualization.png)
